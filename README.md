@@ -9,7 +9,6 @@ The project explores different maneuvers required to transfer a satellite from a
 
 We found the best strategy using a direct parabolic manoeuvre from the initial point to the final and we optimized the parameter minimizing a cost function.
 
-## Authors
-- Brignoli Ettore Davide
+## Co-authors
 - Brenna Marta
 - Carminati Matteo
