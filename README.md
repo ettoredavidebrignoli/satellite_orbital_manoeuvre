@@ -7,6 +7,8 @@ The project explores different maneuvers required to transfer a satellite from a
 - **Analyze Time Efficiency**: Compare the time required for each transfer strategy to determine the most expedient options.
 - **Optimize Transfer Strategies**: Identify the best compromise between energy and time for different mission profiles.
 
+We found the best strategy using a direct parabolic manoeuvre from the initial point to the final and we optimized the parameter minimizing a cost function.
+
 ## Authors
 - Brignoli Ettore Davide
 - Brenna Marta
