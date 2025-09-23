@@ -12,3 +12,5 @@ We found the best strategy using a direct parabolic manoeuvre from the initial p
 ## Co-authors
 - Brenna Marta
 - Carminati Matteo
+
+*This project was developed for academic purposes as part of the **Space Missions Analysis** course at **Politecnico di Milano (PoliMI)**.
